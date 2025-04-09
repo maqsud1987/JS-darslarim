@@ -1,6 +1,6 @@
  //for - operatori(tsikl shartlari,o'zgaruvchi to'g'ridan-to'g'ri for ichida yoziladi)
 
- /*for(var i = 10; i<=20; i += 2){
+/* for(var i = 10; i<=20; i += 2){
     console.log(i);
 }*/
 
