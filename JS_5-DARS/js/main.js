@@ -44,9 +44,9 @@ foydalanuvchiInfo("Maqsud",38);*/
 hisoblaKvadratlar(3,4);*/
 
 /*function info(arr){
-  var son = 0;
+  var sum = 0;
   for(var i=0; i<arr.length; i++)
-    son+=arr[i];
+    sum+=arr[i];
   console.log(sum);
 }
 var array = [6,8,10];
